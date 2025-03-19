@@ -1,5 +1,10 @@
-## Hi there 👋
-
+# Hi, my name is Vika 👋
+Student of the Polar State University
+## :computer: Interests:
+Interest in web development and other programming languages in the future
+## :telephone: My contacts:
+**Email address:** [viktoriaslesarenko165@gmail.com](mailto:viktoriaslesarenko165@gmail.com)
+**Telegram:** [piece_0f_meeeat](https://t.me/piece_0f_meeeat)
 <!--
 **0Viktoria0/0Viktoria0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
