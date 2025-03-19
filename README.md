@@ -1,8 +1,9 @@
 # Hi, my name is Vika 👋
-Student of the Polar State University
-## :computer: Interests:
-Interest in web development and other programming languages in the future
-## :telephone: My contacts:
+Student of the Polar State University :snowflake:
+# :computer: Skills and technology:
+Programming language: C++ (under study)     
+Interest in web development and other programming languages in the future :book:
+# :telephone: My contacts:
 **Email address:** [viktoriaslesarenko165@gmail.com](mailto:viktoriaslesarenko165@gmail.com)
 **Telegram:** [piece_0f_meeeat](https://t.me/piece_0f_meeeat)
 <!--
